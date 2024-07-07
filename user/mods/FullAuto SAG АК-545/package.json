@@ -1,0 +1,8 @@
+{
+    "name": "FullAuto SAG АК-545",
+    "version": "1.1.0",
+    "main": "src/mod.js",
+    "license": "MIT",
+    "author": "Silvercom",
+    "akiVersion": "~3.8"
+}
